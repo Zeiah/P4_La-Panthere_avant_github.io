@@ -526,7 +526,8 @@ p {
 
 h1 {
     font-size: 32px;
-    font-family: ""helvetica"; 
+    font-family: "helvetica"; 
+    background-color: transparent;
 }
 
 .cta-hero {
