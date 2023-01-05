@@ -18,6 +18,11 @@ a:hover {
     cursor: pointer;
 }
 
+a:hover {
+color: white!important;
+}
+
+
 #page-loading-blocs-notifaction {
     position: fixed;
     top: 0;
