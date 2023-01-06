@@ -342,29 +342,20 @@ button {
     font-size: 60px!important;
 }
 
-/*.form-control {
-    border-color: rgba(0, 0, 0, .1);
-    box-shadow: none;
-}*/
 
 .scrollToTop {
-    width: 40px;
-    height: 40px;
     position: fixed;
     bottom: 20px;
     right: 20px;
-    opacity: 0;
     z-index: 500;
     transition: all .3s ease-in-out;
+    font-size: 22px;
+    opacity: 1;
 }
 
 .scrollToTop span {
     margin-top: 6px;
-}
-
-.showScrollTop {
-    font-size: 14px;
-    opacity: 1;
+    color: #fff !important;
 }
 
 a[data-lightbox] {
